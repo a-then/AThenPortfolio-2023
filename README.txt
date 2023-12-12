@@ -1,9 +1,9 @@
-#My Portfolio
+# My Portfolio
 
 Live link --> https://a-then.github.io/AThenPortfolio-2023/
 Hosted with github.io pages
 
-##Credits:
+## Credits:
 
 	Template:
 		Read Only by HTML5 UP
